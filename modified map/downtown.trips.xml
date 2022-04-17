@@ -3,7 +3,11 @@
   options: -n test.net.xml -e 1000 -o downtown.trips.xml
 -->
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
-    <trip id="0" depart="0.00" from="441598618#3" to="-316090724#1"/>
+ 
+
+
+
+ <trip id="0" depart="0.00" from="441598618#3" to="-316090724#1"/>
     <trip id="1" depart="1.00" from="-8723402#8" to="-8723402#0"/>
     <trip id="2" depart="2.00" from="8723036#1" to="441598638#0"/>
     <trip id="3" depart="3.00" from="8734302#3" to="-441448159#0"/>
